@@ -42,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.0",
+                    "text": "1.0.1",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
@@ -73,6 +73,6 @@
         }
     ],
     "tintColor": "#0657bb",
-    "headerImage": "",
+    "headerImage": "https://andrewrepo.github.io/Depictions/IMG_5559.JPG",
     "class": "DepictionTabView"
 }
