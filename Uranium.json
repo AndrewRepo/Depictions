@@ -32,7 +32,7 @@
                     ]
                 },
                 {
-                    "markdown": "Current Features:\r\nHide Homebar\r\nHide Quick Action Buttons On The Lock Screen\r\nRemove the Dock Background (Transparent Dock)\r\nHide Page Dots\r\nHide Control Center Grabber On The Lock Screen",
+                    "markdown": "Current Features:\n\nHide Homebar\n\nHide Quick Action Buttons On The Lock Screen\n\nRemove the Dock Background (Transparent Dock)\r\nHide Page Dots\r\nHide Control Center Grabber On The Lock Screen",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
