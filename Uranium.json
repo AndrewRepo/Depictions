@@ -21,7 +21,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "itemSize": "{160, 275.41333333333336}",
+                    "itemSize": "{0, 0}",
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
@@ -34,6 +34,7 @@
                 {
                     "markdown": "Current Features:\nHide Homebar\nHide Quick Action Buttons On The Lock Screen\nRemove the Dock Background (Transparent Dock)\nHide Page Dots\nHide Control Center Grabber On The Lock Screen\n",
                     "useBottomMargin": false,
+                    "useSpacing": true
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView"
