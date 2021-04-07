@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Lots of options to remove annoying things!",
+                    "markdown": "Lots of options to remove annoying things",
                     "useSpacing": true
                 },
                 {
