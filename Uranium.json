@@ -21,19 +21,19 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "itemSize": "{0, 0}",
+                    "itemSize": "{160, 275.41333333333336}",
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                           
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
                         }
                     ]
                 },
                 {
-                   "markdown": "Current Features:\r\n                  Hide Homebar\r\n                  Hide Quick Action Buttons On The Lock Screen\r\n                  Remove the Dock Background (Transparent Dock)\r\n                  Hide Page Dots\r\n                  Hide Control Center Grabber On The Lock Screen\r\n                  ",
+                    "markdown": "Current Features:\r\n                  Hide Homebar\r\n                  Hide Quick Action Buttons On The Lock Screen\r\n                  Remove the Dock Background (Transparent Dock)\r\n                  Hide Page Dots\r\n                  Hide Control Center Grabber On The Lock Screen\r\n                  ",
                     "useBottomMargin": false,
-                    "useSpacing": true
                     "title": "markdown-description",
                     "useBoldText": true,
                     "class": "DepictionMarkdownView"
