@@ -13,7 +13,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Lots of options to remove annoying things",
+                    "markdown": "Lots of options to remove annoying things!",
                     "useSpacing": true
                 },
                 {
@@ -32,7 +32,7 @@
                     ]
                 },
                 {
-                    "markdown": "Current Features:\r\n                  Hide Homebar\r\n                  Hide Quick Action Buttons On The Lock Screen\r\n                  Remove the Dock Background (Transparent Dock)\r\n                  Hide Page Dots\r\n                  Hide Control Center Grabber On The Lock Screen\r\n                  ",
+                    "markdown": "Current Features:\\nHide Homebar\\nHide Quick Action Buttons On The Lock Screen\\nRemove the Dock Background (Transparent Dock)\\nHide Page Dots\\nHide Control Center Grabber On The Lock Screen\\n",
                     "useBottomMargin": false,
                     "title": "markdown-description",
                     "useBoldText": true,
