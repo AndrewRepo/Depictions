@@ -73,6 +73,6 @@
         }
     ],
     "tintColor": "#0657bb",
-    "headerImage": "",
+    "headerImage": "https://andrewrepo.github.io/Depictions/Icons/banner.png",
     "class": "DepictionTabView"
 }
